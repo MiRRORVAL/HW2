@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        startButton.layer.cornerRadius = 80
+        startButton.layer.cornerRadius = 60
         redFlag.layer.cornerRadius = 60
         yellowFlag.layer.cornerRadius = 60
         greenFlag.layer.cornerRadius = 60
